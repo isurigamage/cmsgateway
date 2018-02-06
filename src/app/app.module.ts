@@ -3,18 +3,26 @@ import { NgModule } from '@angular/core';
 import { FormsModule } from '@angular/forms';
 import { HttpModule } from '@angular/http';
 
-import { AppComponent } from './app.component';
+import { AppComponent} from './app.component';
+import { ProductService } from 'app/productService';
+import { NewlinePipe } from 'app/newPipeLine';
+import { AppRoutingModule } from 'app/app-routing.module';
+import { ProductComponent } from 'app/product.component';
+
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    ProductComponent,
+    NewlinePipe
   ],
   imports: [
     BrowserModule,
     FormsModule,
-    HttpModule
+    HttpModule,
+    AppRoutingModule
   ],
-  providers: [],
+  providers: [ProductService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

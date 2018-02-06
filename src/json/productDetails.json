@@ -1,0 +1,86 @@
+{
+    "content_id": "1211171325668",
+    "content_type": "AVG_Product_C",
+    "site": "AVG2",
+    "referenced_contents": {
+        "1211171319182": {
+            "content_id": "1211171319182",
+            "content_type": "AVG_Image_C",
+            "site": "AVG2",
+            "referenced_contents": [],
+            "attributes": {
+                "fw_uid": "51bd377b-1e34-4fd6-9b4b-be43e3272aad",
+                "id": "1211171319182",
+                "ImageName": "AEDR-87xx(175x175) -1",
+                "ImageDescription": "AEDR-87xx(175x175)-1",
+                "ImageFile": {
+                    "file_name": "877/196/AEDR-87xx,1.jpg",
+                    "folder_name": "/data01/app/CS_shared/ccurl/",
+                    "href": "https://dev.aws.broadcom.com/cs/BlobServer?blobkey=id&blobnocache=true&blobwhere=1211171415444&blobheadername3=MDT-Type&blobheadername2=Content-Disposition&blobheadername1=Content-Type&blobheadervalue3=abinary%3B+charset%3DUTF-8&blobheadervalue2=attachment%3B+filename%3D%22AEDR-87xx%252C1.jpg%22%3Bfilename*%3DUTF-8%27%27AEDR-87xx%252C1.jpg&blobheadervalue1=image%2Fjpeg&blobcol=urldata&blobtable=MungoBlobs",
+                    "vanity_url": "media/1211171319182/aedr-87xx.jpg"
+                },
+                "AltText": "AEDR-87xx(175x175)-1",
+                "ProductThumbnailFile3": {
+                    "file_name": "877/196/AEDR-87xxThumb,6.png",
+                    "folder_name": "/data01/app/CS_shared/ccurl/",
+                    "href": "https://dev.aws.broadcom.com/cs/BlobServer?blobkey=id&blobnocache=true&blobwhere=1211171415445&blobheadername3=MDT-Type&blobheadername2=Content-Disposition&blobheadername1=Content-Type&blobheadervalue3=abinary%3B+charset%3DUTF-8&blobheadervalue2=attachment%3B+filename%3D%22AEDR-87xxThumb%252C6.png%22%3Bfilename*%3DUTF-8%27%27AEDR-87xxThumb%252C6.png&blobheadervalue1=image%2Fpng&blobcol=urldata&blobtable=MungoBlobs",
+                    "vanity_url": null
+                },
+                "CopyFileType": "JPG",
+                "CopyMimeType": "image/jpeg",
+                "ProductThumbnailFile": {
+                    "file_name": "877/196/AEDR-87xxThumb,7.png",
+                    "folder_name": "/data01/app/CS_shared/ccurl/",
+                    "href": "https://dev.aws.broadcom.com/cs/BlobServer?blobkey=id&blobnocache=true&blobwhere=1211171415446&blobheadername3=MDT-Type&blobheadername2=Content-Disposition&blobheadername1=Content-Type&blobheadervalue3=abinary%3B+charset%3DUTF-8&blobheadervalue2=attachment%3B+filename%3D%22AEDR-87xxThumb%252C7.png%22%3Bfilename*%3DUTF-8%27%27AEDR-87xxThumb%252C7.png&blobheadervalue1=image%2Fpng&blobcol=urldata&blobtable=MungoBlobs",
+                    "vanity_url": null
+                },
+                "ProductThumbnailFile5": {
+                    "file_name": "877/196/AEDR-87xxThumb,8.png",
+                    "folder_name": "/data01/app/CS_shared/ccurl/",
+                    "href": "https://dev.aws.broadcom.com/cs/BlobServer?blobkey=id&blobnocache=true&blobwhere=1211171415447&blobheadername3=MDT-Type&blobheadername2=Content-Disposition&blobheadername1=Content-Type&blobheadervalue3=abinary%3B+charset%3DUTF-8&blobheadervalue2=attachment%3B+filename%3D%22AEDR-87xxThumb%252C8.png%22%3Bfilename*%3DUTF-8%27%27AEDR-87xxThumb%252C8.png&blobheadervalue1=image%2Fpng&blobcol=urldata&blobtable=MungoBlobs",
+                    "vanity_url": null
+                },
+                "ProductThumbnailFile4": {
+                    "file_name": "877/196/AEDR-87xxThumb,9.png",
+                    "folder_name": "/data01/app/CS_shared/ccurl/",
+                    "href": "https://dev.aws.broadcom.com/cs/BlobServer?blobkey=id&blobnocache=true&blobwhere=1211171415448&blobheadername3=MDT-Type&blobheadername2=Content-Disposition&blobheadername1=Content-Type&blobheadervalue3=abinary%3B+charset%3DUTF-8&blobheadervalue2=attachment%3B+filename%3D%22AEDR-87xxThumb%252C9.png%22%3Bfilename*%3DUTF-8%27%27AEDR-87xxThumb%252C9.png&blobheadervalue1=image%2Fpng&blobcol=urldata&blobtable=MungoBlobs",
+                    "vanity_url": null
+                },
+                "ProductThumbnailFile2": {
+                    "file_name": "877/196/AEDR-87xxThumb,10.png",
+                    "folder_name": "/data01/app/CS_shared/ccurl/",
+                    "href": "https://dev.aws.broadcom.com/cs/BlobServer?blobkey=id&blobnocache=true&blobwhere=1211171415449&blobheadername3=MDT-Type&blobheadername2=Content-Disposition&blobheadername1=Content-Type&blobheadervalue3=abinary%3B+charset%3DUTF-8&blobheadervalue2=attachment%3B+filename%3D%22AEDR-87xxThumb%252C10.png%22%3Bfilename*%3DUTF-8%27%27AEDR-87xxThumb%252C10.png&blobheadervalue1=image%2Fpng&blobcol=urldata&blobtable=MungoBlobs",
+                    "vanity_url": null
+                }
+            },
+            "category": "Image"
+        }
+    },
+    "attributes": {
+        "vanity_url": "dddafdsasdf",
+        "template": "AVG2/AVG2_Layout",
+        "fw_uid": "35d15ee3-acca-4b43-9264-f9d034e8d908",
+        "id": "1211171325668",
+        "PartNumber": "HDSM-281 C-D",
+        "ProductName": "0.28\" (7mm) Single digit surface mount LED display",
+        "PageTitle": "0.28\" (7mm) Single digit surface mount LED display",
+        "Lifecycle": "Active",
+        "ProductSummary": "This is 0.28inch (7mm) font size single digit surface mount seven segment display. This device with upper and lower decimal point, configuration in common anode or common cathode. Seven segment SMD display, available in red, yellow, green and orange. This device is much smaller than traditional components, thus enable customers to design in applications that require small size, higher packing density and low power consumption.",
+        "Features": "<div>\r\n\t<ul style=\"color: rgb(0, 0, 0); font-family: &quot;Times New Roman&quot;; font-size: medium;\">\r\n\t\t<li>\r\n\t\t\t0.28&quot; digit height</li>\r\n\t\t<li>\r\n\t\t\tLow current operation</li>\r\n\t\t<li>\r\n\t\t\tExcellent characters appearance</li>\r\n\t</ul>\r\n</div>\r\n<div>\r\n\t&nbsp;</div>\r\n",
+        "ProductImage": {
+            "content_id": "1211171319182",
+            "content_type": "AVG_Image_C",
+            "complex_attr": true
+        },
+        "Specifications": "<table class=\" column-2 table table-responsive table-striped\">\r\n\t<thead>\r\n\t\t<tr>\r\n\t\t\t<th>Specification</th>\r\n\t\t\t<th>Value</th>\r\n\t\t</tr>\r\n\t</thead>\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>dsfdf</td>\r\n\t\t\t<td>asdvav</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>asvv</td>\r\n\t\t\t<td>asdvsdv</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>svv</td>\r\n\t\t\t<td>adsv</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n",
+        "MetaDescription": "0.28\" (7mm) Single digit surface mount LED display",
+        "MetaKeywords": "0.28\" (7mm) Single digit surface mount LED display",
+        "HOST_BUS_TYPE": "x4 lane PCI Express\u00ae 2.0",
+        "INTERNAL_PORTS": "4",
+        "EXTERNAL_PORTS": "1",
+        "PublishDate": "2013-01-12T09:30:03.000Z",
+        "AssetLocale": "avg_en",
+        "ProductExpirationDate": "2048-01-12T09:30:03.000Z"
+    },
+    "category": "Product"
+}
